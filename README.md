@@ -17,7 +17,6 @@ You can also track your own results and get personalized stats.
 ## Related Links
 
 * [mtgmeta.io :chart_with_upwards_trend:](https://mtgmeta.io)
-* [roadmap (planned implementations) :clipboard:](https://github.com/mtgmetaio/roadmap)
 * [reddit](https://www.reddit.com/r/mtgMETAio/) 
 * [patreon](https://www.patreon.com/mtgmeta)
 * [twitter](https://twitter.com/mtgmetaio) 
