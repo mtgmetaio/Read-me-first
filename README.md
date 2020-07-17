@@ -1,6 +1,6 @@
 # MTGmeta.io
 
-General info from [mtgmeta](https://mtgmeta.io) repositories.
+General info from <a href="https://mtgmeta.io" target="_blank">mtgmeta.io</a> repositories.
 
 - [What is](#what-is)
 - [Related Links](#related-links)
@@ -16,12 +16,12 @@ You can also track your own results and get personalized stats.
 
 ## Related Links
 
-* [mtgmeta.io :chart_with_upwards_trend:](https://mtgmeta.io)
+* <a href="https://mtgmeta.io" target="_blank">mtgmeta.io :chart_with_upwards_trend:</a>
 * [roadmap (planned implementations) :clipboard:](https://github.com/mtgmetaio/roadmap)
-* [reddit](https://www.reddit.com/r/mtgMETAio/) 
-* [patreon](https://www.patreon.com/mtgmeta)
-* [twitter](https://twitter.com/mtgmetaio) 
-* [discord](https://discord.gg/3KaXbMQ)
+* <a href="https://www.reddit.com/r/mtgMETAio/" target="_blank">reddit</a>
+* <a href="https://www.patreon.com/mtgmeta" target="_blank">patreon</a>
+* <a href="https://twitter.com/mtgmetaio" target="_blank">twitter</a>
+* <a href="https://discord.gg/3KaXbMQ" target="_blank">discord</a>
 * [email :email:](mailto:hello@mtgmeta.io?subject=[BUG%20REPORT]%20)
 
 ## Bug Reports or Suggestions
