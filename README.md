@@ -21,7 +21,7 @@ You can also track your own results and get personalized stats.
 * [patreon](https://www.patreon.com/mtgmeta)
 * [twitter](https://twitter.com/mtgmetaio) 
 * [discord](https://discord.gg/3KaXbMQ)
-* [email :email:](mailto:hello@mtgmeta.io?subject=[BUG%20REPORT]%20)
+* [email :email:](mailto:hello@mtgmeta.io)
 
 ## Bug Reports or Suggestions
 
